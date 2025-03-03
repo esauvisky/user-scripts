@@ -16,7 +16,7 @@ You'll need a user script manager like [Tampermonkey](https://www.tampermonkey.n
 - **Description:** Displays a sortable, searchable list of forks right at the top of a GitHub repo's main page. You can sort them, you can search commit messages... you can finally give a middle finger to GitHub's *primitive* fork navigation.
 - **File:** [scripts/github-forklore-explore.js](scripts/github-forklore-explore.js)
 - **Preview:**
-  forklore
+  ![forklore](https://github.com/user-attachments/assets/5bed89c4-ffb8-466d-b15d-9e681d6a50fb)
 
 ### Checkout My Colors
 - **Description:** Adds a cool color gradient to commit timestamps on GitHub file listings, based on their date. You can instantly spot if a repo is active or basically dead.
