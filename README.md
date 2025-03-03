@@ -8,15 +8,15 @@ You'll need a user script manager like Tampermonkey.
 
 ## The Scripts
 
-- **GitHub Forklore Explorer:** Displays a list of forks at the top of the current repo's main page. You can sort them, you can search for commit messages... you can finally give a middle finger to GitHub's *primitive* fork navigation.
+- **Forklore Explorer:** displays a sortable, searchable list of forks right at the top of a GitHub repo's main page. You can sort them, you can search commit messages... you can finally give a middle finger to GitHub's *primitive* fork navigation.
 
   ![forklore](https://github.com/user-attachments/assets/5bed89c4-ffb8-466d-b15d-9e681d6a50fb)
 
-- **GitHub's Rainbow Time Machine**: colorizes commit messages by date, allowing you to quickly glance at how active a repo is and how old are its commits
+- **Checkout My Colors**: adds a cool color gradient to commit timestamps on GitHub file listings, based on their date. You can instantly spot if a repo is active or basically dead.
 
   ![colorizer](https://github.com/user-attachments/assets/6c257be0-f4da-4390-90aa-c2b4272b0da5)
 
-- **Udio Song Settings**: extracts the hidden generation settings from Udio songs. Udio likes to keep secrets, I like to expose them. Now you can see exactly what parameters were used to create that audio masterpiece (or trainwreck).
+- **Udio Song Settings**: extracts the hidden generation settings from Udio songs. Udio likes to keep secrets, I like to expose them.
 
 - **AliExpress Noise Canceller:** improves AliExpress search results by getting rid of the useless products that clog up your screen. You know, the ones that have *absolutely nothing* to do with what you actually searched for.
 
