@@ -8,21 +8,21 @@ You'll need a user script manager like [Tampermonkey](https://www.tampermonkey.n
 
 ## The Scripts
 
-- ### [Forklore Explore](scripts/github-forklore-explore.js)
-  - Displays a sortable, searchable list of forks right at the top of a GitHub repo's main page. You can sort them, you can search commit messages... you can finally give a middle finger to GitHub's *primitive* fork navigation.
-  - 
+### [Forklore Explore](scripts/github-forklore-explore.js)
+- Displays a sortable, searchable list of forks right at the top of a GitHub repo's main page. You can sort them, you can search commit messages... you can finally give a middle finger to GitHub's *primitive* fork navigation.
+
      ![forklore](https://github.com/user-attachments/assets/eec937f7-b13f-40b0-9d03-a53067f690eb)
 
 ### [Checkout My Colors](scripts/github-checkout-my-colors.js)
-- **Description:** Adds a cool color gradient to commit timestamps on GitHub file listings, based on their date. You can instantly spot if a repo is active or basically dead.
-- 
+- Adds a cool color gradient to commit timestamps on GitHub file listings, based on their date. You can instantly spot if a repo is active or basically dead.
+
      ![colorizer](https://github.com/user-attachments/assets/6c257be0-f4da-4390-90aa-c2b4272b0da5)
 
 ### [Udio Secret Spiller](scripts/udio-song-settings.js)
-- **Description:** Extracts the hidden generation settings from Udio songs. Udio likes to keep secrets, I like to expose them.
+- Extracts the hidden generation settings from Udio songs. Udio likes to keep secrets, I like to expose them.
 
 ### [AliExpress Junk Zapper](scripts/aliexpress-noise-canceller.js)
-- **Description:** Improves AliExpress search results by getting rid of the useless products that clog up your screen. You know, the ones that have *absolutely nothing* to do with what you actually searched for.
+- Improves AliExpress search results by getting rid of the useless products that clog up your screen. You know, the ones that have *absolutely nothing* to do with what you actually searched for.
 
 ---
 
